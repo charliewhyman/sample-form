@@ -18,9 +18,10 @@ body {
   padding: 4% 5% 4% 5%;
 }
 
-#form input {
+#form input,
+select {
   margin: 1% 5% 2% 5%;
-  padding: 2% 0% 2% 0%;
+  padding: 2% 0% 2% 2%;
   border: hidden;
 }
 
